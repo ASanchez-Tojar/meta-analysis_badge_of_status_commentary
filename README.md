@@ -47,10 +47,8 @@ Platform: x86_64-w64-mingw32/x64 (64-bit)
 Operating system: Windows 10 x64 (build 19044)
 
 Attached base packages
-
-grid
-
-stats
+- grid
+- stats
 
 graphics
 
