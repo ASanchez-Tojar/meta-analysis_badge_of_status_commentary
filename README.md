@@ -42,8 +42,11 @@ Please, see the original data dictionary in the repository by Ruckman et al. (20
 ## Software and {Packages} used
 
 R Session Information
+
 R version: 4.3.1 (2023-06-16 ucrt)
+
 Platform: x86_64-w64-mingw32/x64 (64-bit)
+
 Operating system: Windows 10 x64 (build 19044)
 
 Attached base packages
@@ -157,5 +160,4 @@ Loaded via a namespace (not attached)
 - nlme (3.1-162)
 - xfun (0.49)
 - zoo (1.8-14)
-
-pkgconfig (2.0.3)
+- pkgconfig (2.0.3)
