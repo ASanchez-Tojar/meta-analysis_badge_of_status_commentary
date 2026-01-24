@@ -1,5 +1,5 @@
 # Short title: The jury is still out about the badge of status hypothesis
-## Title: Response to: Assessing the Association Between Animal Color and Behavior: A Meta-Analysis of Experimental Studies 
+## Title: Fifty years later, and we still don’t know about badges of status 
 **Contributors:** Alfredo Sánchez-Tójar, Pietro B. D'Amelio
 
 **Date created:** January 2026
@@ -16,7 +16,7 @@
 
 ---
 
-Alfredo Sánchez-Tójar, Pietro B. D'Amelio. 2026. **Response to: Assessing the Association Between Animal Color and Behavior: A Meta-Analysis of Experimental Studies**.
+Alfredo Sánchez-Tójar, Pietro B. D'Amelio. 2026. **Fifty years later, and we still don’t know about badges of status**.
 
 ---
 
