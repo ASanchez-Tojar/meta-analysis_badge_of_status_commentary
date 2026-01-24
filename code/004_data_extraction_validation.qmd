@@ -1,5 +1,5 @@
 ---
-title: "Fifty years since, yet, we don't know: badges of status?"
+title: "Supporting Information for: Fifty years later, and we still don’t know about badges of status"
 authors: "Alfredo Sanchez-Tojar, Pietro B. D’Amelio"
 #css: style.css
 format: 
