@@ -1,4 +1,3 @@
-# Short title: The jury is still out about the badge of status hypothesis
 ## Title: Fifty years later, and we still don’t know about badges of status 
 **Contributors:** Alfredo Sánchez-Tójar, Pietro B. D'Amelio
 
