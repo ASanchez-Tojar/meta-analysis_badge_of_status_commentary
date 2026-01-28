@@ -31,6 +31,8 @@ Folders:
 
 - [data_extraction_figures](https://github.com/ASanchez-Tojar/meta-analysis_badge_of_status_commentary/tree/main/data_extraction_figures): contains the figures that were used to extrac data using metaDigitise.
 
+- [docs](https://github.com/ASanchez-Tojar/meta-analysis_badge_of_status_commentary/tree/main/docs): contains the supplementary information, which is properly display at: https://asanchez-tojar.github.io/meta-analysis_badge_of_status_commentary/
+
 - [new_figures](https://github.com/ASanchez-Tojar/meta-analysis_badge_of_status_commentary/tree/main/new_figures): contains all figures reported in the main text and the supplementary figures
 
 - [new_taxonomy](https://github.com/ASanchez-Tojar/meta-analysis_badge_of_status_commentary/tree/main/new_taxonomy): contains the taxonomic and phylogenetic information generated and necessary for running the phylogenetic multilevel models.
