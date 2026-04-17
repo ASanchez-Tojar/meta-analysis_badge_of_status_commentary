@@ -15,7 +15,7 @@
 
 ---
 
-Alfredo Sánchez-Tójar, Pietro B. D'Amelio. 2026. **Fifty years later, and we still don’t know about badges of status**.
+Alfredo Sánchez-Tójar, Pietro B. D'Amelio. 2026. **Fifty years later, and we still don’t know about badges of status**. Ecology and Evolution. DOI: [10.1002/ece3.73578](http://doi.org/10.1002/ece3.73578)
 
 ---
 
