@@ -3,7 +3,7 @@
 
 **Date created:** January 2026
 
-**Identifer:** DOI (TBA)
+**Identifer:** [![DOI](https://zenodo.org/badge/1140454530.svg)](https://doi.org/10.5281/zenodo.19628289)
 
 **Category:** Project
 
